@@ -1,8 +1,5 @@
 
-Hello you! I'm Collins aka Kulture👌!![PeaceOutPeaceSignGIF](https://github.com/user-attachments/assets/63c0dc22-aabd-4884-a95e-57abca72de17)
-
-
- 
+Hello you! I'm Collins aka Kulture👌
 
 I'm an enthusiast of data analytics, data science, visualization, and lastly, machine/deep learning.I'm still in the early days of my career in data manipulation to achieve specific objctives in various fields like business, sports, healthcare, finance and my hobbies.
 
