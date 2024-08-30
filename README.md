@@ -1,5 +1,6 @@
 
-Hello you! I'm Collins aka Kulture👌!![DihDissyADihGIF](https://github.com/user-attachments/assets/9f15f978-f242-4f4d-ba8c-e9a0fa7c6b92)
+Hello you! I'm Collins aka Kulture👌!![PeaceOutPeaceSignGIF](https://github.com/user-attachments/assets/63c0dc22-aabd-4884-a95e-57abca72de17)
+
 
  
 
