@@ -15,12 +15,6 @@ What have I done so far in recent years:
 Tools
 ![image](https://github.com/user-attachments/assets/a7337c4e-458d-47c2-81f6-5f0c0a5bb5a0)
 ![image](https://github.com/user-attachments/assets/61a658da-0755-4c12-b5dc-896e94776d96)
-![image](https://github.com/user-attachments/assets/c023e1f4-88af-4816-84e0-6215ae1efb8e)
-![image](https://github.com/user-attachments/assets/3a50469d-e2de-457e-ab53-c51a3490cb5b)
-![image](https://github.com/user-attachments/assets/1e5cba44-c9f1-4040-8de2-58368155f364)
-![image](https://github.com/user-attachments/assets/2b07cd19-2e0f-4c8f-910e-17b4ef203607)
-![image](https://github.com/user-attachments/assets/9a15ec36-3a63-4a4c-bda0-04c351424cf6)
-![image](https://github.com/user-attachments/assets/3085afab-0b39-4d49-852c-1054b4d1a791)
 
 Libraries & Frameworks
 ![image](https://github.com/user-attachments/assets/c2e9605c-8cb1-4dcb-a252-737a4ba88f24)
