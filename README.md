@@ -9,15 +9,18 @@ What have I done so far in recent years:
    
 2) Education: I have taken several in-person and online courses, obtained certificates for exploration data analysis, data manipulation, data wrangling, data cleaning, data science and  data visualization. Still proceeding to add things to my toolbox. In the meantime, making analyses based on real-life data to consolidate them further.
 
-   Languages
+**Languages**
+
 ![image](https://github.com/user-attachments/assets/32125315-1681-4125-9570-55043714fa6e)
 ![image](https://github.com/user-attachments/assets/bdd1e1e7-56f0-43eb-bbca-85db8e7554bb)
 
-Tools
+**Tools**
+
 ![image](https://github.com/user-attachments/assets/a7337c4e-458d-47c2-81f6-5f0c0a5bb5a0)
 ![image](https://github.com/user-attachments/assets/61a658da-0755-4c12-b5dc-896e94776d96)
 
-Libraries & Frameworks
+**Libraries & Frameworks**
+
 ![image](https://github.com/user-attachments/assets/c2e9605c-8cb1-4dcb-a252-737a4ba88f24)
 ![image](https://github.com/user-attachments/assets/9b486941-dcb6-4f9c-8693-19e07a17cac2)
 ![image](https://github.com/user-attachments/assets/fedf256c-9590-454c-a3ad-105e8b836279)
