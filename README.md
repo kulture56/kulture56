@@ -1,5 +1,6 @@
 
-Hello you! I'm Collins aka Kulture👌
+Hello you! I'm Collins aka Kulture👌![KowalskyDoItGIF](https://github.com/user-attachments/assets/5990d2d4-48ea-4c19-a4cd-0a668fdd33ef)
+
 
 I'm an enthusiast of data analytics, data science, visualization, and lastly, machine/deep learning.I'm still in the early days of my career in data manipulation to achieve specific objctives in various fields like business, sports, healthcare, finance and my hobbies.
 
