@@ -3,6 +3,7 @@
 Hello! I'm **Collins**, also known as **Kulture**. This repository hosts various config files and personal projects that reflect my journey and expertise in data analytics, data science, visualization, and machine learning.
 
 **About Me**
+
 I am passionate about analyzing data to derive actionable insights across different industries, including:
 
 1) Business
