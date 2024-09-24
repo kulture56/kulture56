@@ -9,7 +9,8 @@ I am passionate about analyzing data to derive actionable insights across differ
 1) Business
 2) Sports
 3) Healthcare
-4)Finance
+4) Finance
+5) Tech
 
 **What You Can Expect**:
 1) Projects: You'll find real-world data analysis and projects in business optimization, sports performance, and financial analytics.
