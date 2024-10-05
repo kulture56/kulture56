@@ -15,17 +15,17 @@ I’m passionate about using data to generate actionable insights across multipl
 
 **What You'll Find Here:**
 
-Projects: Real-world data analyses focused on business optimization, sports performance, financial analytics, and more.
-Tools & Technologies: I frequently work with Python and SQL, along with visualization tools like Tableau.
-Continuous Learning: I’ve completed numerous courses in data analysis, data science/machine learning and I’m always expanding my skillset.
+1) Projects: Real-world data analyses focused on business optimization, sports performance, financial analytics, and more.
+2) Tools & Technologies: I frequently work with Python and SQL, along with visualization tools like Tableau.
+3) Continuous Learning: I’ve completed numerous courses in data analysis, data science/machine learning and I’m always expanding my skillset.
 
 **Key Skills:**
 
-Data Analysis: Expertise in cleaning, analyzing, and reporting data.
-Data Visualization: Turning complex data into intuitive, easy-to-understand visuals.
-Data Science: From data wrangling to solving analytical problems.
-Machine Learning: Developing basic predictive models for actionable insights.
-Feel free to explore the repository and contribute!
+1) Data Analysis: Expertise in cleaning, analyzing, and reporting data.
+2) Data Visualization: Turning complex data into intuitive, easy-to-understand visuals.
+3) Data Science: From data wrangling to solving analytical problems.
+4) Machine Learning: Developing basic predictive models for actionable insights.
+5) Feel free to explore the repository and contribute!
 
 Feel free to explore and contribute!
 
