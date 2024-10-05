@@ -2,6 +2,10 @@
 
 Hello! I'm **Collins**, also known as **Kulture**. This repository showcases a variety of configuration files and personal projects that highlight my expertise and journey in data analytics, data science, visualization, and machine learning. 🚀✅
 
+🌍  I'm based in Toronto, Canada originally from Nairobi, Kenya
+🖥️  See my portfolio at https://www.datascienceportfol.io/CollinsMurichu
+✉️  You can contact me at murichucollins26@gmail.com
+
 
 **About Me**
 
