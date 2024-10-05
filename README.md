@@ -1,6 +1,6 @@
 **Welcome to My GitHub Repository!** ![KowalskyDoItGIF](https://github.com/user-attachments/assets/5990d2d4-48ea-4c19-a4cd-0a668fdd33ef)
 
-Hello! I'm **Collins**, also known as **Kulture**. This repository hosts various config files and personal projects that reflect my journey and expertise in data analytics, data science, visualization, and machine learning. 🚀✅![FlagBlackGIF](https://github.com/user-attachments/assets/dca5aea5-c960-4ce5-aab3-ff22ab192896)
+Hello! I'm **Collins**, also known as **Kulture**. This repository hosts various config files and personal projects that reflect my journey and expertise in data analytics, data science, visualization, and machine learning. 🚀✅
 
 
 **About Me**
