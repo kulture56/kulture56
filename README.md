@@ -4,6 +4,7 @@ Hello! I'm **Collins**, also known as **Kulture**. This repository showcases a v
 
 
 **About Me**
+
 I’m passionate about using data to generate actionable insights across multiple industries, including:
 
 1) Business
@@ -13,11 +14,13 @@ I’m passionate about using data to generate actionable insights across multipl
 5) Tech
 
 **What You'll Find Here:**
+
 Projects: Real-world data analyses focused on business optimization, sports performance, financial analytics, and more.
 Tools & Technologies: I frequently work with Python and SQL, along with visualization tools like Tableau.
 Continuous Learning: I’ve completed numerous courses in data analysis, data science/machine learning and I’m always expanding my skillset.
 
 **Key Skills:**
+
 Data Analysis: Expertise in cleaning, analyzing, and reporting data.
 Data Visualization: Turning complex data into intuitive, easy-to-understand visuals.
 Data Science: From data wrangling to solving analytical problems.
