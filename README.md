@@ -25,7 +25,6 @@ I’m passionate about using data to generate actionable insights across multipl
 2) Data Visualization: Turning complex data into intuitive, easy-to-understand visuals.
 3) Data Science: From data wrangling to solving analytical problems.
 4) Machine Learning: Developing basic predictive models for actionable insights.
-5) Feel free to explore the repository and contribute!
 
 Feel free to explore and contribute!
 
@@ -46,7 +45,6 @@ Feel free to explore and contribute!
 ![image](https://github.com/user-attachments/assets/fedf256c-9590-454c-a3ad-105e8b836279)
 ![image](https://github.com/user-attachments/assets/2e1cba64-9aa3-41e5-9a17-705bee92217e)
 ![image](https://github.com/user-attachments/assets/1cf0a0ad-47c7-4bff-a699-9601ef712c4b)
-
 
 
 
