@@ -1,9 +1,10 @@
 **Welcome to My GitHub Repository!** ![KowalskyDoItGIF](https://github.com/user-attachments/assets/5990d2d4-48ea-4c19-a4cd-0a668fdd33ef)
 
-Hi, I’m **Collins Murichu** a **junior data analyst** having certifications in Data Analytics and Data Science. Currently advancing my expertise through a Junior Data Analytics course at NPower Canada. Based in Toronto but originally from Nairobi, Kenya, I bring diverse experience from working as a data entry analyst. My specialties span Business, Healthcare, Finance, and Sports analytics, with a keen focus on delivering impactful data visualizations.
-Some of my key projects include analyzing Formula 1 seasons from 2021-2023, evaluating the efficiency of marketing campaigns, visualizing mortality rates among shelter residents, and building machine learning models for predictive analysis.
-With a passion for continuous learning and problem-solving, I thrive in dynamic environments where data drives decision-making and success. I’m always eager to connect with professionals from all fields to expand my knowledge and impact.
+Hi, I’m **Collins Murichu**, a Junior Data Analyst with certifications in **Data Analytics** and **Data Science**. I am currently expanding my expertise through the Junior Data Analytics program at NPower Canada. Originally from Nairobi, Kenya, and now based in Toronto, I bring a diverse background, including experience as a data entry analyst.
 
+My expertise spans multiple sectors, including Business, Healthcare, Finance, and Sports analytics, with a focus on delivering actionable insights through impactful data visualizations. Key projects I’ve worked on include analyzing Formula 1 seasons from 2021 to 2023, assessing the effectiveness of marketing campaigns, visualizing mortality rates among shelter residents, and developing machine learning models for predictive analysis.
+
+With a passion for continuous learning and a problem-solving mindset, I thrive in dynamic environments where data is central to decision-making. I’m always eager to connect with professionals across industries to exchange knowledge and drive meaningful impact.
 
 🌍  I'm based in Toronto, Canada originally from Nairobi, Kenya
 
