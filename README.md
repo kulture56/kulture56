@@ -1,8 +1,6 @@
 **Welcome to My GitHub Repository!** ![KowalskyDoItGIF](https://github.com/user-attachments/assets/5990d2d4-48ea-4c19-a4cd-0a668fdd33ef)
 
-Hi, I’m **Collins Murichu**, a Junior Data Analyst with certifications in **Data Analytics** and **Data Science**. I am currently expanding my expertise through the Junior Data Analytics program at NPower Canada. Originally from Nairobi, Kenya, and now based in Toronto, I bring a diverse background, including experience as a data entry analyst.
-
-My expertise spans multiple sectors, including Business, Healthcare, Finance, and Sports analytics, with a focus on delivering actionable insights through impactful data visualizations. Key projects I’ve worked on include analyzing Formula 1 seasons from 2021 to 2023, assessing the effectiveness of marketing campaigns, visualizing mortality rates among shelter residents, and developing machine learning models for predictive analysis.
+Hi, I’m **Collins Murichu**, a Junior Data Analyst with certifications in **Data Analytics** and **Data Science**. I am currently expanding my expertise through the Junior Data Analytics program at NPower Canada.
 
 With a passion for continuous learning and a problem-solving mindset, I thrive in dynamic environments where data is central to decision-making. I’m always eager to connect with professionals across industries to exchange knowledge and drive meaningful impact.
 
@@ -19,7 +17,7 @@ With a passion for continuous learning and a problem-solving mindset, I thrive i
 I’m passionate about using data to generate actionable insights across multiple industries, including:
 
 * Business
-*  Sports
+* Sports
 * Healthcare
 * Finance
 * Tech
