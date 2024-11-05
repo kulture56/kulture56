@@ -18,11 +18,11 @@ With a passion for continuous learning and a problem-solving mindset, I thrive i
 
 I’m passionate about using data to generate actionable insights across multiple industries, including:
 
-1) Business
-2) Sports
-3) Healthcare
-4) Finance
-5) Tech
+* Business
+*  Sports
+* Healthcare
+* Finance
+* Tech
 
 **What You'll Find Here:**
 
