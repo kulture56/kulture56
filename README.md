@@ -12,6 +12,8 @@ With a passion for continuous learning and a problem-solving mindset, I thrive i
 
 ✉️  You can contact me at murichucollins26@gmail.com
 
+📝 I regularly write articles on https://medium.com/@mylocollins56
+
 **About Me**
 
 I’m passionate about using data to generate actionable insights across multiple industries, including:
