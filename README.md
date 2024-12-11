@@ -8,6 +8,8 @@ With a passion for continuous learning and a problem-solving mindset, I thrive i
 
 🖥️  See my portfolio at https://www.datascienceportfol.io/CollinsMurichu
 
+🔗 vist my LinkedIn https://www.linkedin.com/in/collins-murichu-wanjira/
+
 ✉️  You can contact me at murichucollins26@gmail.com
 
 📝 I regularly write articles on https://medium.com/@mylocollins56
