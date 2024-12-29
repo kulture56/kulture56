@@ -18,11 +18,11 @@ With a passion for continuous learning and a problem-solving mindset, I thrive i
 
 I’m passionate about using data to generate actionable insights across multiple industries, including:
 
-* Business
+* finBiz
 * Sports
 * Healthcare
-* Finance
-* Tech
+* Finance(crypto, stocks, Ipos)
+* finTech
 
 **What You'll Find Here:**
 
