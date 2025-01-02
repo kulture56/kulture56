@@ -24,11 +24,15 @@ I’m passionate about using data to generate actionable insights across multipl
 * Finance(crypto, stocks, Ipos)
 * finTech
 
-**What You'll Find Here:**
+**What You’ll Find Here:**
+* Projects:
+Dive into real-world analyses on business optimization, sports performance, financial analytics, and more. Each project demonstrates my ability to tackle diverse challenges using data-driven approaches.
 
-1) Projects: Real-world data analyses focused on business optimization, sports performance, financial analytics, and more.
-2) Tools & Technologies: I frequently work with Python and SQL, along with visualization tools like Tableau.
-3) Continuous Learning: I’ve completed numerous courses in data analysis, data science/machine learning and I’m always expanding my skillset.
+* Tools & Technologies:
+Proficient in Python and SQL, and skilled with data visualization tools like Tableau and emerging platforms. My projects showcase seamless integration of these tools to deliver impactful insights.
+
+* Continuous Learning:
+With certifications in data analysis, machine learning, and related fields, I am constantly advancing my knowledge and adopting cutting-edge techniques.
 
 **Key Skills:**
 
