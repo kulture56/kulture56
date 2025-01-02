@@ -35,11 +35,21 @@ Proficient in Python and SQL, and skilled with data visualization tools like Tab
 With certifications in data analysis, machine learning, and related fields, I am constantly advancing my knowledge and adopting cutting-edge techniques.
 
 **Key Skills:**
+* Data Analysis:
+Proficient in cleaning, analyzing, and interpreting data to uncover actionable insights.
+Skilled in applying statistical methods to solve real-world problems.
 
-1) Data Analysis: Expertise in cleaning, analyzing, and reporting data.
-2) Data Visualization: Turning complex data into intuitive, easy-to-understand visuals.
-3) Data Science: From data wrangling to solving analytical problems.
-4) Machine Learning: Developing basic predictive models for actionable insights.
+* Visualization:
+Expertise in creating intuitive visuals to convey complex datasets effectively.
+Strong command of Tableau, Matplotlib, and Seaborn to craft compelling dashboards and reports.
+
+* Data Science:
+End-to-end experience in data wrangling, hypothesis testing, and analytical problem-solving.
+Passionate about delivering high-quality, data-centric solutions.
+
+* Machine Learning:
+Developed predictive models for business and personal projects, applying algorithms to real-world datasets.
+Proficient in regression, classification, and clustering methods, with practical applications to drive decision-making.
 
 Feel free to explore and contribute!
 
