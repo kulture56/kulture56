@@ -1,6 +1,8 @@
 **Welcome to My GitHub Repository!**
 Junior Analyst ![KowalskyDoItGIF](https://github.com/user-attachments/assets/5990d2d4-48ea-4c19-a4cd-0a668fdd33ef) 
-Future Eployers ![ImTheManForTheJobJackHarlowGIF](https://github.com/user-attachments/assets/6ae27c39-33af-48b7-82a9-fbc8219154d0)
+
+Future Employers ![ImTheManForTheJobJackHarlowGIF](https://github.com/user-attachments/assets/6ae27c39-33af-48b7-82a9-fbc8219154d0)
+
 Niche passion ![OffsetRapperGIF](https://github.com/user-attachments/assets/61502963-26f3-4884-98c1-e7f3309bd9e9)
 
 
