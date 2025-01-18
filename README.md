@@ -1,4 +1,5 @@
-**Welcome to My GitHub Repository!**
+## Welcome to My GitHub Repository!
+
 Junior Analyst ![KowalskyDoItGIF](https://github.com/user-attachments/assets/5990d2d4-48ea-4c19-a4cd-0a668fdd33ef) 
 
 Future Employers ![ImTheManForTheJobJackHarlowGIF](https://github.com/user-attachments/assets/6ae27c39-33af-48b7-82a9-fbc8219154d0)
