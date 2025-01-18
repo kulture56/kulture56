@@ -1,10 +1,15 @@
-**Welcome to My GitHub Repository!** ![KowalskyDoItGIF](https://github.com/user-attachments/assets/5990d2d4-48ea-4c19-a4cd-0a668fdd33ef)
+**Welcome to My GitHub Repository!** ![KowalskyDoItGIF](https://github.com/user-attachments/assets/5990d2d4-48ea-4c19-a4cd-0a668fdd33ef) ![ImTheManForTheJobJackHarlowGIF](https://github.com/user-attachments/assets/6ae27c39-33af-48b7-82a9-fbc8219154d0)
+![OffsetRapperGIF](https://github.com/user-attachments/assets/61502963-26f3-4884-98c1-e7f3309bd9e9)
 
-Hi, I’m **Collins Murichu**, a Junior Data Analyst with certifications in **Data Analytics** and **Data Science**. I am currently expanding my expertise through the Junior Data Analytics program at NPower Canada.
 
+Hi, I’m **Collins Murichu**, a Junior Data Analyst with certifications in **Data Analytics** and **Data Science**. I am currently expanding my expertise in **Automated Testing at CompIT.**
 With a passion for continuous learning and a problem-solving mindset, I thrive in dynamic environments where data is central to decision-making. I’m always eager to connect with professionals across industries to exchange knowledge and drive meaningful impact.
 
 🌍  I'm based in Toronto, Canada originally from Nairobi, Kenya
+
+⏯️ My Hobbies are Volunteering, basketball🏀, Formula 1🏎️, Soccer⚽
+
+💰💹💸 My Niche is analyzing the financial market/ investing.
 
 🖥️  See my portfolio at https://www.datascienceportfol.io/CollinsMurichu
 
