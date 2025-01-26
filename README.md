@@ -14,7 +14,7 @@ With a passion for continuous learning and a problem-solving mindset, I thrive i
 
 ⏯️ My Hobbies are Volunteering, basketball🏀, Formula 1🏎️, Soccer⚽
 
-💰💹💸 My Niche is analyzing the financial market/ investing.
+💰💹💸 My Niche is analyzing the financial market/ investing.(https://github.com/kulture56/financial-market)
 
 🖥️  See my portfolio at https://www.datascienceportfol.io/CollinsMurichu
 
