@@ -1,10 +1,16 @@
 ## Welcome to My GitHub Repository!
 
-Junior Analyst ![KowalskyDoItGIF](https://github.com/user-attachments/assets/5990d2d4-48ea-4c19-a4cd-0a668fdd33ef) 
+Junior Data Analyst 
 
-Future Employers ![ImTheManForTheJobJackHarlowGIF](https://github.com/user-attachments/assets/6ae27c39-33af-48b7-82a9-fbc8219154d0)
+![KowalskyDoItGIF](https://github.com/user-attachments/assets/5990d2d4-48ea-4c19-a4cd-0a668fdd33ef) 
 
-Niche passion ![OffsetRapperGIF](https://github.com/user-attachments/assets/61502963-26f3-4884-98c1-e7f3309bd9e9)
+To Future Employers
+
+![ImTheManForTheJobJackHarlowGIF](https://github.com/user-attachments/assets/6ae27c39-33af-48b7-82a9-fbc8219154d0)
+
+Niche passion
+
+![OffsetRapperGIF](https://github.com/user-attachments/assets/61502963-26f3-4884-98c1-e7f3309bd9e9)
 
 
 Hi, I’m **Collins Murichu**, a Junior Data Analyst with certifications in **Data Analytics** and **Data Science**. I am currently expanding my expertise in **Automated Testing at CompIT.**
