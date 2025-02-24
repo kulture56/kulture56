@@ -8,7 +8,7 @@ With a passion for continuous learning and a problem-solving mindset, I thrive i
 
 ![Kulture56's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulture56&show_icons=true&theme=radical)
 
-**About Me**
+##About Me
 
 I’m passionate about using data to generate actionable insights across multiple industries, including:
 
@@ -46,10 +46,6 @@ Developed predictive models for business and personal projects, applying algorit
 Proficient in regression, classification, and clustering methods, with practical applications to drive decision-making.
 
 Feel free to explore and contribute!
-
-
-
-
 
 🌍  I'm based in Toronto, Canada originally from Nairobi, Kenya
 
@@ -70,44 +66,7 @@ Feel free to explore and contribute!
 🔗 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Sub_Kulture)
 
 
-**About Me**
 
-I’m passionate about using data to generate actionable insights across multiple industries, including:
-
-* finBiz
-* Sports
-* Healthcare
-* Finance(crypto, stocks, Ipos)
-* finTech
-
-**What You’ll Find Here:**
-* Projects:
-Dive into real-world analyses on business optimization, sports performance, financial analytics, and more. Each project demonstrates my ability to tackle diverse challenges using data-driven approaches.
-
-* Tools & Technologies:
-Proficient in Python and SQL, and skilled with data visualization tools like Tableau and emerging platforms. My projects showcase seamless integration of these tools to deliver impactful insights.
-
-* Continuous Learning:
-With certifications in data analysis, machine learning, and related fields, I am constantly advancing my knowledge and adopting cutting-edge techniques.
-
-**Key Skills:**
-* Data Analysis:
-Proficient in cleaning, analyzing, and interpreting data to uncover actionable insights.
-Skilled in applying statistical methods to solve real-world problems.
-
-* Visualization:
-Expertise in creating intuitive visuals to convey complex datasets effectively.
-Strong command of Tableau, Matplotlib, and Seaborn to craft compelling dashboards and reports.
-
-* Data Science:
-End-to-end experience in data wrangling, hypothesis testing, and analytical problem-solving.
-Passionate about delivering high-quality, data-centric solutions.
-
-* Machine Learning:
-Developed predictive models for business and personal projects, applying algorithms to real-world datasets.
-Proficient in regression, classification, and clustering methods, with practical applications to drive decision-making.
-
-Feel free to explore and contribute!
 
 **Languages**
 
@@ -124,7 +83,7 @@ Feel free to explore and contribute!
 ![image](https://github.com/user-attachments/assets/a7337c4e-458d-47c2-81f6-5f0c0a5bb5a0)
 ![image](https://github.com/user-attachments/assets/61a658da-0755-4c12-b5dc-896e94776d96)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)                                   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)                                                                                    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **Libraries & Frameworks**
 
@@ -136,25 +95,6 @@ Feel free to explore and contribute!
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/collins-murichu-wanjira/)
-
-**Junior Data Analyst** 
-
-![KowalskyDoItGIF](https://github.com/user-attachments/assets/5990d2d4-48ea-4c19-a4cd-0a668fdd33ef) 
-
-**To Future Employers**
-
-![ImTheManForTheJobJackHarlowGIF](https://github.com/user-attachments/assets/6ae27c39-33af-48b7-82a9-fbc8219154d0)
-
-**Niche passion**
-
-![OffsetRapperGIF](https://github.com/user-attachments/assets/61502963-26f3-4884-98c1-e7f3309bd9e9)
-
-
-
 
 
 
