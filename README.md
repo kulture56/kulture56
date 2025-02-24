@@ -5,8 +5,11 @@
 ![Kulture56's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulture56&show_icons=true&theme=radical)
 
 
-Hi, I’m **Collins Murichu**, a Junior Data Analyst with certifications in **Data Analytics** and **Data Science**. I am currently expanding my expertise in **Automated Testing at CompIT.**
+Hi there, I’m **Collins Murichu Wanjira**. I'm passionate about **software development**, **AI**,  **Data Analytics**, **Data Science**, **Visualizations** and love contributing to open-source projects. Here's a little bit about me:. 
+I am currently expanding my expertise in **Automated Testing at CompIT.**
 With a passion for continuous learning and a problem-solving mindset, I thrive in dynamic environments where data is central to decision-making. I’m always eager to connect with professionals across industries to exchange knowledge and drive meaningful impact.
+
+
 
 🌍  I'm based in Toronto, Canada originally from Nairobi, Kenya
 
@@ -79,6 +82,10 @@ Feel free to explore and contribute!
 ![image](https://github.com/user-attachments/assets/2e1cba64-9aa3-41e5-9a17-705bee92217e)
 ![image](https://github.com/user-attachments/assets/1cf0a0ad-47c7-4bff-a699-9601ef712c4b)
 
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/collins-murichu-wanjira/)
 
 **Junior Data Analyst** 
 
