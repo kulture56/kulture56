@@ -1,5 +1,10 @@
 ## Welcome to My GitHub Repository!
 
+## GitHub Stats
+
+![Kulture56's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulture56&show_icons=true&theme=radical)
+
+
 **Junior Data Analyst** 
 
 ![KowalskyDoItGIF](https://github.com/user-attachments/assets/5990d2d4-48ea-4c19-a4cd-0a668fdd33ef) 
