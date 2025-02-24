@@ -8,7 +8,7 @@ With a passion for continuous learning and a problem-solving mindset, I thrive i
 
 ![Kulture56's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulture56&show_icons=true&theme=radical)
 
-##About Me
+## About Me
 
 I’m passionate about using data to generate actionable insights across multiple industries, including:
 
