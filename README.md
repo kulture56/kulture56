@@ -1,13 +1,15 @@
 ## Welcome to My GitHub Repository!
 
+Hi there, I’m **Collins Murichu Wanjira**. I'm passionate about **software development**, **AI**,  **Data Analytics**, **Data Science**, **Visualizations** and love contributing to open-source projects. Here's a little bit about me:. 
+I am currently expanding my expertise in **Automated Testing at CompIT.**
+With a passion for continuous learning and a problem-solving mindset, I thrive in dynamic environments where data is central to decision-making. I’m always eager to connect with professionals across industries to exchange knowledge and drive meaningful impact.
+
 ## GitHub Stats
 
 ![Kulture56's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulture56&show_icons=true&theme=radical)
 
 
-Hi there, I’m **Collins Murichu Wanjira**. I'm passionate about **software development**, **AI**,  **Data Analytics**, **Data Science**, **Visualizations** and love contributing to open-source projects. Here's a little bit about me:. 
-I am currently expanding my expertise in **Automated Testing at CompIT.**
-With a passion for continuous learning and a problem-solving mindset, I thrive in dynamic environments where data is central to decision-making. I’m always eager to connect with professionals across industries to exchange knowledge and drive meaningful impact.
+
 
 
 
