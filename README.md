@@ -82,8 +82,7 @@ Feel free to explore and contribute!
 ![image](https://github.com/user-attachments/assets/a7337c4e-458d-47c2-81f6-5f0c0a5bb5a0)
 ![image](https://github.com/user-attachments/assets/61a658da-0755-4c12-b5dc-896e94776d96)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)                                   
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)                                   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **Libraries & Frameworks**
 
