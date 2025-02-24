@@ -23,6 +23,7 @@ With a passion for continuous learning and a problem-solving mindset, I thrive i
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murichucollins26@gmail.com)
 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 📝 I regularly write articles on https://medium.com/@mylocollins56
 
 **About Me**
