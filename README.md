@@ -21,8 +21,6 @@ With a passion for continuous learning and a problem-solving mindset, I thrive i
 
 🔗 vist my LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins-murichu-wanjira/)
 
-
-✉️  You can contact me at murichucollins26@gmail.com
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murichucollins26@gmail.com)
 
 📝 I regularly write articles on https://medium.com/@mylocollins56
