@@ -91,6 +91,12 @@ Feel free to explore and contribute!
 ![image](https://github.com/user-attachments/assets/2e1cba64-9aa3-41e5-9a17-705bee92217e)
 ![image](https://github.com/user-attachments/assets/1cf0a0ad-47c7-4bff-a699-9601ef712c4b)
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) **React**: Building dynamic and responsive user interfaces.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) **Django**: Developing robust back-end applications.
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) **TensorFlow**: Implementing machine learning models and neural networks.
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
